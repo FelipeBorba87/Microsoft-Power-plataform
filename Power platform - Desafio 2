@@ -1,0 +1,12 @@
+Para esse deesafio foi possível entender como criar, ramificar e configurar um tópico de um chat bot.
+
+Entender a aplicação de fallback e assim ser possível retomar um fluxo do tópico ou direcinonar o cliente para um atendente
+
+Também foi possível verificar entidades e variáveis em que entidades são usadas para reconhecer dados que podem ser armazenadas em variáveis.
+Variáveis podem ser de tópico, de ambiente ou globais. Com elas, foi possível entender como criar cada, com usa-las e como utilizar fórmulas
+
+Também foi possível ver como é possível usar respostas generativas em um agente copilot, visto que os recursos do chat gpt são usados pela microsoft.
+
+Na parte prática criar um copilot em branco, adicionando descrição, instruções, bases de conhecimentos, temperatura da IA, e criando um tópico customizadno com resposta generativa.
+Foi criada mensagem de erro quando a IA não encontra conteúdo a ser exibido.
+Finalmente foi possível verificar o aumentando ou diminuição de respostas da IA, configurando bases de dados e também configurando aprametros para a reposta ser mais criativa ou mais concisa e direta.
